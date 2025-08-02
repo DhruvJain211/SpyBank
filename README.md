@@ -37,7 +37,7 @@ According to a recent report by the Reserve Bank of India, digital transactions 
 To get started with SpendSync, follow the steps below:
 
 1. Install Node.js and MongoDB on your machine.
-2. Clone the repository: `git clone https://github.com/`
+2. Clone the repository: `git clone https://github.com/DhruvJain211/SpyBank`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
 5. Open the app in your browser: `http://localhost:5173`
@@ -46,7 +46,7 @@ To get started with SpendSync, follow the steps below:
 
 Contributions to this project are welcome. To contribute, follow these steps:
 
-1. Fork the repository: `https://github.com/`
+1. Fork the repository: `https://github.com/DhruvJain211/SpyBank`
 2. Create a new branch: `git checkout -b feature/your-feature`
 3. Make changes and commit them: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin feature/your-feature`
